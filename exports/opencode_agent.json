@@ -1,8 +1,0 @@
-{
-  "agent_id": "side-channel-leakage-analyzer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

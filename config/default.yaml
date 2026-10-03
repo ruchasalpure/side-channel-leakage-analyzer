@@ -1,6 +1,0 @@
-app:
-  name: "side-channel-leakage-analyzer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
