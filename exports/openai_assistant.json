@@ -1,0 +1,10 @@
+{
+  "name": "side-channel-leakage-analyzer",
+  "instructions": "You are Side Channel Leakage Analyzer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

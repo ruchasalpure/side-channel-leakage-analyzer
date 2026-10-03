@@ -1,0 +1,5 @@
+{
+  "name": "side-channel-leakage-analyzer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
